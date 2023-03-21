@@ -4,11 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
-This is an initiative started by [simplemap.io](https://simplemap.io) to establish an inclusive community of AI researchers for the development and exchange of best practices for AI in thermographic imaging.
+A sustainable world is one where humans live in harmony with nature, where resources are used wisely and responsibly, and where economic development does not come at the cost of the environment. From a sustainability perspective, we envision a future where our technological advancements are aligned with nature, where we use renewable resources and minimize waste, and where we prioritize the long-term health of the planet over short-term gains. We strive for a world where businesses and individuals are accountable for their impact on the environment, and where sustainable practices are the norm rather than the exception. Through collaboration and innovation, we can create a sustainable future where people, planet, and prosperity thrive together.
 
-A part of our workload is dedicated to open source and side projects. Almost every new package arises from client work. When we discover functionality in client projects that is useful for others, we extract it to an open source package.
-
-You can spot team members in user groups or as conference speakers as well.
+This is an initiative started by [simplemap.io](https://simplemap.io) to establish an inclusive community of AI researchers for the development and exchange of best practices for AI in thermographic imaging. A part of our workload is dedicated to open source and side projects. Almost every new package arises from client work. When we discover functionality in client projects that is useful for others, we extract it to an open source package. You can spot team members in user groups or as conference speakers as well.
 
 
 ## Nice to meet you! Let us tell you who we are.

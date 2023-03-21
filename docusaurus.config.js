@@ -16,8 +16,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'simplemap.io', // Usually your GitHub org/user name.
+  organizationName: 'simplemap', // Usually your GitHub org/user name.
   projectName: 'simplemap.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -67,18 +68,17 @@ const config = {
             type: 'doc',
             docId: 'introduction',
             position: 'left',
-            label: 'Open Source',
+            label: 'Projects',
           },
-          {
-            type: 'doc',
-            docId: 'support-us',
-            position: 'left',
-            label: 'Support us',
-          },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/RentadroneCL',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://discord.gg/V6mwD7GYa2',
+            label: 'Discord',
             position: 'right',
           },
         ],
@@ -86,15 +86,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -105,10 +96,6 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/V6mwD7GYa2',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
               },
             ],
           },
