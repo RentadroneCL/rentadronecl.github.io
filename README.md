@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/RentadroneCL/docs-dev/tags"><img src="https://img.shields.io/osslifecycle/RentadroneCL/docs-dev?colorA=363a4f&style=for-the-badge"></a>
-  <a href="https://github.com/RentadroneCL/docs-dev/actions/workflows"><img src="https://img.shields.io/github/actions/workflow/status/RentadroneCL/docs-dev/continuous-integration.yml?colorA=363a4f&label=Continuous%20Integration&logo=github&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/docs-dev/actions"><img src="https://img.shields.io/github/actions/workflow/status/RentadroneCL/docs-dev/test-deploy.yml?colorA=363a4f&label=Continuous%20Integration&logo=github&style=for-the-badge"></a>
   <a href="https://github.com/RentadroneCL/docs-dev/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/RentadroneCL/docs-dev?colorA=363a4f&style=for-the-badge"></a>
   <a href="https://github.com/RentadroneCL/docs-dev/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?colorA=363a4f&style=for-the-badge"></a>
   <a href="https://github.com/RentadroneCL/AI-Solar-Platform/blob/development/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?colorA=363a4f&style=for-the-badge"></a>
