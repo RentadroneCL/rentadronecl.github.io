@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>simplemap.io open-source initiative Blog</title>
+        <link>https://rentadronecl.github.io/blog</link>
+        <description>simplemap.io open-source initiative Blog</description>
+        <lastBuildDate>Tue, 21 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Hello World!]]></title>
+            <link>https://rentadronecl.github.io/blog/welcome</link>
+            <guid>https://rentadronecl.github.io/blog/welcome</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dear members of our open source community,]]></description>
+            <content:encoded><![CDATA[<p>Dear members of our open source community,</p><p>It is my great pleasure to extend a warm welcome to each and every one of you. Whether you are a seasoned contributor or a newcomer to the world of open source, we are thrilled to have you as part of our community.</p><p>As you know, open source is all about collaboration, innovation, and the power of community. By sharing our knowledge, skills, and resources, we can create truly transformative technologies and drive progress in a variety of fields. And at the heart of it all is the community, made up of individuals like you who are passionate about making a difference.</p><p>Our community is dedicated to building and improving open source projects that are accessible, inclusive, and impactful. We believe in fostering an environment that values diversity, encourages experimentation, and supports growth and learning. We welcome people of all backgrounds, experiences, and perspectives to join us on this journey.</p><p>As a member of our community, you will have the opportunity to collaborate with talented individuals from around the world, contribute to exciting open source projects, and learn from some of the best and brightest minds in the industry. We are committed to providing a supportive, inclusive, and respectful environment for all members of our community, and we look forward to working with you to achieve our goals.</p><p>Thank you for joining our open source community. We can't wait to see what we can accomplish together.</p><p><em>Happy coding!</em></p><p>Alvaro Farias</p>]]></content:encoded>
+            <category>hello</category>
+            <category>welcome</category>
+        </item>
+    </channel>
+</rss>
