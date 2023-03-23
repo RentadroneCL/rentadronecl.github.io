@@ -80,7 +80,7 @@ This ever-evolving guide provides some rules and recommendations on how to.
     - "This is actually intentional, but thanks for taking the time to contribute. 😊"
   - **Listen to what people are saying and mirror if you're not sure you're understanding correctly.** This can help validate people's feelings and experiences, while also understanding if *you're* understanding *them* correctly.
   - **Use a lot of positive and empathetic emojis.** It's always better to seem a little strange than mean or impatient.
-  - **Kindly communicate rules/boundaries.** If someone behaves in a way that's abusive/inappropriate, respond only with kindness and maturity, but also make it clear that this behavior is not acceptable and what will happen [according to the code of conduct](CODE_OF_CONDUCT.md) if they continue behaving poorly.
+  - **Kindly communicate rules/boundaries.** If someone behaves in a way that's abusive/inappropriate, respond only with kindness and maturity, but also make it clear that this behavior is not acceptable and what will happen [according to the code of conduct](code-of-conduct.md) if they continue behaving poorly.
 
 ## Resources
 
