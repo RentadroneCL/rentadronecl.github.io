@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksimplemap_github_io=self.webpackChunksimplemap_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/blog/welcome"}]}')}}]);

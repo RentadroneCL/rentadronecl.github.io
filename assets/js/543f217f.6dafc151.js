@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksimplemap_github_io=self.webpackChunksimplemap_github_io||[]).push([[232],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
